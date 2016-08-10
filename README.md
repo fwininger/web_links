@@ -15,3 +15,5 @@ https://wiki.mozilla.org/Security/Server_Side_TLS
 
 # Docker
 
+- Best practices for writing Dockerfiles
+https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/

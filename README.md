@@ -17,6 +17,7 @@ de l'administration système et du développement informatique.
 - [YouTube's road to HTTPS ](https://youtube-eng.blogspot.fr/2016/08/youtubes-road-to-https.html)
 - [Apple announces long-awaited bug bounty program](https://techcrunch.com/2016/08/04/apple-announces-long-awaited-bug-bounty-program/) (08/2016)
 - [Not every elliptic curve is the same: trough on ECC security](http://infosecurity.ch/20100926/not-every-elliptic-curve-is-the-same-trough-on-ecc-security/) (2010)
+- [Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs](https://lkml.org/lkml/2016/8/15/445) (08/2016)
 
 **Vulnerabilités**
 
@@ -32,11 +33,19 @@ de l'administration système et du développement informatique.
 
 # Developpement
 
+- [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 - [An Introduction to Crystal: Fast as C, Slick as Ruby](https://blog.codeship.com/an-introduction-to-crystal-fast-as-c-slick-as-ruby/)
 - [The Human Cost of Tech Debt](http://www.daedtech.com/human-cost-tech-debt/)
 - [Noms: a new database that makes it easy to store, move, and collaborate on large-scale structured data.](https://medium.com/@aboodman/noms-init-98b7f0c3566#.3m5ju0dbh) (08/2016)
 - [YC: Product Development Cycle Fundamentals](http://themacro.com/articles/2016/08/product-development-cycle-fundamentals/)
+- [Writing Less Damn Code](http://www.heydonworks.com/article/on-writing-less-damn-code) (16/08/2016)
+- [Extracting data from Wikipedia using curl, grep, cut and other shell commands](http://loige.co/extracting-data-from-wikipedia-using-curl-grep-cut-and-other-bash-commands/)
+- [What is copyleft?](https://opensource.com/resources/what-is-copyleft)
 
 ## Développement en Ruby/Rails
 
 - [Rails 5](http://blog.bigbinary.com/categories/Rails-5)
+
+# Startups
+
+- [Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)
